@@ -932,22 +932,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7706704133163136415, guid: 1b9c9bd520ad54747a98d7222069677a, type: 3}
   m_PrefabInstance: {fileID: 1793807790}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1082534797
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1082534796}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 71f9b1f9a4087f14f8a28bf8b688d9e1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  pitchPower: 140
-  rollPower: 180
-  yawPower: 120
-  enginePower: 40
 --- !u!4 &1082534802 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6676849553677731724, guid: 1b9c9bd520ad54747a98d7222069677a, type: 3}
@@ -1002,6 +986,23 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 1
+--- !u!114 &1082534809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1082534796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: daf0722d045650b428899e67984ff408, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 50
+  rotationSpeed: 700
+  pitchDamping: 5
+  yawDamping: 5
+  speedDamping: 2
 --- !u!1 &1254334725
 GameObject:
   m_ObjectHideFlags: 0
@@ -1647,7 +1648,7 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 7706704133163136415, guid: 1b9c9bd520ad54747a98d7222069677a, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1082534797}
+      addedObject: {fileID: 1082534809}
     - targetCorrespondingSourceObject: {fileID: 7706704133163136415, guid: 1b9c9bd520ad54747a98d7222069677a, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1082534806}

@@ -22,6 +22,7 @@ public class SpaceshipMovement : MonoBehaviour
         else
         {
 
+
             activePitch = Input.GetAxisRaw("Vertical") * pitchPower / 2 * Time.deltaTime;
             activeRoll = Input.GetAxisRaw("Horizontal") * rollPower / 2 * Time.deltaTime;
             activeYaw = Input.GetAxisRaw("Yaw") * yawPower / 2 * Time.deltaTime;
@@ -29,5 +30,6 @@ public class SpaceshipMovement : MonoBehaviour
 
             transform.Rotate(activePitch * -pitchPower * Time.deltaTime, activeYaw * yawPower * Time.deltaTime, -activeRoll * rollPower * Time.deltaTime, Space.Self);
         }
+
     }
 }
