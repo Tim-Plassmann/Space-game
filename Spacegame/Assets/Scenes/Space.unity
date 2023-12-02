@@ -1386,11 +1386,12 @@ MonoBehaviour:
   - {fileID: 1082534802}
   - {fileID: 1082534802}
   bulletPrefab: {fileID: 1765683802}
-  bulletSpeed: 200
+  bulletSpeed: 500
   bulletDamage: 100
   offsets:
   - {x: -5.1, y: 0, z: 6.8}
   - {x: 5.1, y: 0, z: 6.8}
+  shootCooldown: 0.5
 --- !u!1 &1254334725
 GameObject:
   m_ObjectHideFlags: 0
