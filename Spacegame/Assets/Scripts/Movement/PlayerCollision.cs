@@ -50,6 +50,26 @@ public class PlayerCollision : MonoBehaviour
                 
                 StartCoroutine(ResetCollisionFlagAfterDelay(2f));
             }
+            // Check if the collided object has the tag "Objects"
+            if (collision.gameObject.CompareTag("Object"))
+            {
+                // Get the Rigidbody component of the collided object (asteroid)
+                Rigidbody asteroidRb = collision.gameObject.GetComponent<Rigidbody>();
+
+                // Check if the Rigidbody component is not null
+                if (asteroidRb != null)
+                {
+                    // Get the velocity of the spaceship
+                    Rigidbody spaceshipRb = GetComponent<Rigidbody>();
+
+                    // Check if the spaceship's Rigidbody component is not null
+                    if (spaceshipRb != null)
+                    {
+                        // Set the asteroid's velocity to match the spaceship's velocity
+                        asteroidRb.velocity = spaceshipRb.velocity;
+                    }
+                }
+            }
         }
     }
 

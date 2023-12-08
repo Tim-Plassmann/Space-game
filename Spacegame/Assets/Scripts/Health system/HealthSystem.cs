@@ -12,7 +12,7 @@ public class HealthSystem : MonoBehaviour
     public Slider slider;
     // Events for health-related actions
     public delegate void HealthChangedDelegate(int currentHealth, int maxHealth);
-    public event HealthChangedDelegate OnHealthChanged;
+    //public event HealthChangedDelegate OnHealthChanged;
 
     void Start()
     {
