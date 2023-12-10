@@ -1,39 +1,48 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
+using System.Threading;
+using System.Threading.Tasks;
 
 public class CollisionDamage : MonoBehaviour
 {
     private HealthSystem healthSystem;
+    private bool hasCollided = false;
 
-    private void OnCollisionEnter(Collision collision)
+    private async void OnCollisionEnter(Collision collision)
     {
-        // Check if the collision involves any tag
-        foreach (string tag in GetAllTags())
+        if (!hasCollided)
         {
-            if (collision.gameObject.CompareTag(tag))
+            // Check if the collision involves any tag
+            foreach (string tag in GetAllTags())
             {
-                Debug.Log($"Collided with an object with tag: {tag}");
+                if (collision.gameObject.CompareTag(tag))
+                {
+                    Debug.Log($"Collided with an object with tag: {tag}");
 
-                // You can access the collided GameObject or perform actions based on the collision
-                GameObject collidedObject = collision.gameObject;
+                    // Get the HealthSystem component of the collided object
+                    healthSystem = GetComponent<HealthSystem>();
 
-                healthSystem.TakeDamage(1);
-                StartCoroutine(Delay());
-                // Perform actions based on the collision
-                // For example, you might want to damage the object based on its tag
+                    // Check if the object has a HealthSystem component
+                    if (healthSystem != null)
+                    {
+                        healthSystem.TakeDamage(10);
+                                                
+                        Debug.Log("du har taget skade");
+                        continue;
+                    }
+                    await DelayedAction(20000);
+                }
             }
         }
     }
-
-    private IEnumerator Delay()
+    static async Task DelayedAction(int delay)
     {
-        yield return new WaitForSeconds(2.4f);
-
         // Code to execute after the delay goes here
+        await Task.Delay(delay);
         Debug.Log("Delay completed");
     }
-
     private string[] GetAllTags()
     {
         // Find all objects with a Collider component
@@ -54,8 +63,6 @@ public class CollisionDamage : MonoBehaviour
                 continue;
             }
         }
-        Debug.Log(colliders);
-
         // Convert HashSet to an array
         string[] tagsArray = new string[uniqueTags.Count];
         uniqueTags.CopyTo(tagsArray);
