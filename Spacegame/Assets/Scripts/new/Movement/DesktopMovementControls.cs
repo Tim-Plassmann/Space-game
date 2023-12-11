@@ -6,6 +6,7 @@ using UnityEngine;
 public class DesktopMovementControls : MovementControllsBase
 {
     float deadZoneRadius = 0.1f;
+    float rollAmount = 0;
 
     Vector2 ScreenCenter => new Vector2(Screen.width * 0.5f, Screen.height * 0.5f);
 
@@ -35,12 +36,18 @@ public class DesktopMovementControls : MovementControllsBase
     { 
         get
         {
+            float roll;
             if (Input.GetKey(KeyCode.Q))
             {
-                return 1f;
+                roll = 1f;
+            }
+            else
+            {
+                roll = Input.GetKey(KeyCode.E) ? -1f : 0f;
             }
 
-            return Input.GetKey(KeyCode.E) ? -1f : 0f;
+            rollAmount = Mathf.Lerp(rollAmount, roll, Time.deltaTime * 3f);
+            return rollAmount;
         }        
     }
 
