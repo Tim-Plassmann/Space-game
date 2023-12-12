@@ -12,11 +12,11 @@ public class ShipController : MonoBehaviour
           pitchForce = 6000f,
           rollForce = 1000f,
           yawForce = 2000f;
+
     Rigidbody rigidBody;
-    [SerializeField]
-    [Range(-1f, 1f)]
-    float thrustAmount = 0f,
-          pitchAmount = 0f,
+    [SerializeField] List<ShipEngine> engines;
+    
+    float pitchAmount = 0f,
           rollAmount = 0f,
           yawAmount = 0f;
 
@@ -27,9 +27,16 @@ public class ShipController : MonoBehaviour
         rigidBody = GetComponent<Rigidbody>();
     }
 
+    void Start()
+    {
+        foreach(ShipEngine engine in engines)
+        {
+            engine.Init(controlInput,rigidBody, thrustForce / engines.Count);
+        }  
+    }
+
     void Update()
     {
-        thrustAmount = controlInput.ThrustAmount;
         rollAmount = controlInput.RollAmount;
         yawAmount = controlInput.YawAmount;
         pitchAmount = controlInput.PitchAmount;
@@ -48,10 +55,6 @@ public class ShipController : MonoBehaviour
         if (!Mathf.Approximately(0f, yawAmount))
         {
             rigidBody.AddTorque(transform.up * (yawForce * yawAmount * Time.fixedDeltaTime));
-        }
-        if (!Mathf.Approximately(0f, thrustAmount))
-        {
-            rigidBody.AddForce(transform.forward * (thrustForce * thrustAmount * Time.fixedDeltaTime));
-        }
+        }        
     }
 }
