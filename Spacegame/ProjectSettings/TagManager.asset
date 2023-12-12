@@ -15,12 +15,12 @@ TagManager:
   - PlayerProjectile
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - PlayerShield
+  - Enemy
+  - EnemyProjectile
+  - EnemyShield
+  - Asteroid
+  - Player
   - 
   - 
   - 
