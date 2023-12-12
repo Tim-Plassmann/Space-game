@@ -42,7 +42,7 @@ public class CameraManager : MonoBehaviour
     {
         if (activeCamera == VirtualCameras.NoCamera)
         {
-            Debug.Log("No camera");
+            
             return;
         }
 

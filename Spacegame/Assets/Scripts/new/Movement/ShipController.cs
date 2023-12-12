@@ -15,6 +15,8 @@ public class ShipController : MonoBehaviour
 
     Rigidbody rigidBody;
     [SerializeField] List<ShipEngine> engines;
+
+    [SerializeField] AnimateCockpitControls cockpitControls;
     
     float pitchAmount = 0f,
           rollAmount = 0f,
@@ -33,6 +35,7 @@ public class ShipController : MonoBehaviour
         {
             engine.Init(controlInput,rigidBody, thrustForce / engines.Count);
         }  
+        cockpitControls.Init(controlInput);
     }
 
     void Update()
