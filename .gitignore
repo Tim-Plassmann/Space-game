@@ -70,3 +70,1301 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Spacegame/Assets/Unity assets/Asteroids Pack.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Materials.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Materials/large_asteroid.mat
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Materials/large_asteroid.mat.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Materials/skybox.mat
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Materials/skybox.mat.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Materials/small_asteroid.mat
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Materials/small_asteroid.mat.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid1_LOD0.fbx
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid1_LOD0.fbx.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid1_LOD1.fbx
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid1_LOD1.fbx.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid1_LOD2.fbx
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid1_LOD2.fbx.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid2_LOD0.fbx
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid2_LOD0.fbx.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid2_LOD1.fbx
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid2_LOD1.fbx.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid2_LOD2.fbx
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid2_LOD2.fbx.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid3_LOD0.fbx
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid3_LOD0.fbx.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid3_LOD1.fbx
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid3_LOD1.fbx.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid3_LOD2.fbx
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid3_LOD2.fbx.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Prefabs.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Prefabs/Asteroid 1.prefab
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Prefabs/Asteroid 1.prefab.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Prefabs/Asteroid 2.prefab
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Prefabs/Asteroid 2.prefab.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Prefabs/Asteroid 3.prefab
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Prefabs/Asteroid 3.prefab.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Scripts.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Scripts/RandomRotator.cs
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Scripts/RandomRotator.cs.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/seamless_rock_texture.jpg
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/seamless_rock_texture.jpg.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/seamless_rock_texture_detail.jpg
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/seamless_rock_texture_detail.jpg.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/back.png
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/back.png.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/bottom.png
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/bottom.png.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/front.png
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/front.png.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/left.png
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/left.png.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/right.png
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/right.png.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/up.png
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/up.png.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Demo.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Demo/Demo.unity
+Spacegame/Assets/Unity assets/Asteroids Pack/Demo/Demo.unity.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Demo/DemoSettings.lighting
+Spacegame/Assets/Unity assets/Asteroids Pack/Demo/DemoSettings.lighting.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock1.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock1.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock10.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock10.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock11.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock11.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock12.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock12.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock13.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock13.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock14.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock14.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock15.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock15.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock2.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock2.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock3.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock3.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock4.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock4.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock5.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock5.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock6.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock6.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock7.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock7.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock8.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock8.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock9.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock9.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture1.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture1.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture10.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture10.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture11.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture11.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture12.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture12.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture13.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture13.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture14.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture14.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture15.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture15.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture2.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture2.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture3.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture3.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture4.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture4.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture5.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture5.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture6.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture6.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture7.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture7.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture8.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture8.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture9.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture9.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Readme.txt
+Spacegame/Assets/Unity assets/BreakableAsteroids/Readme.txt.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Scenes.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Scenes/AsteroidScene.unity
+Spacegame/Assets/Unity assets/BreakableAsteroids/Scenes/AsteroidScene.unity.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Scripts.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Scripts/ExampleFracture.cs
+Spacegame/Assets/Unity assets/BreakableAsteroids/Scripts/ExampleFracture.cs.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Scripts/Fracture.cs
+Spacegame/Assets/Unity assets/BreakableAsteroids/Scripts/Fracture.cs.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Ground.mat
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Ground.mat.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012.mat
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012.mat.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_AmbientOcclusion.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_AmbientOcclusion.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_Color.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_Color.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_Displacement.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_Displacement.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_Normal.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_Normal.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_Roughness.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_Roughness.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_AmbientOcclusion.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_AmbientOcclusion.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_Color.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_Color.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_Displacement.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_Displacement.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_Normal.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_Normal.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_Roughness.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_Roughness.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_AmbientOcclusion.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_AmbientOcclusion.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_Color.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_Color.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_Displacement.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_Displacement.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_Normal.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_Normal.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_Roughness.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_Roughness.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_AmbientOcclusion.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_AmbientOcclusion.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_Color.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_Color.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_Displacement.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_Displacement.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_Normal.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_Normal.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_Roughness.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_Roughness.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_AmbientOcclusion.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_AmbientOcclusion.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_Color.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_Color.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_Displacement.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_Displacement.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_Normal.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_Normal.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_Roughness.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_Roughness.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_AmbientOcclusion.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_AmbientOcclusion.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_Color.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_Color.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_Displacement.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_Displacement.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_Normal.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_Normal.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_Roughness.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_Roughness.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock14.mat
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock14.mat.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock16.mat
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock16.mat.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock31.mat
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock31.mat.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock33.mat
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock33.mat.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock35.mat
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock35.mat.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/The Void 8k.hdr
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/The Void 8k.hdr.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/VoidSkybox.mat
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/VoidSkybox.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/hdr.png
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/hdr.png.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/hdri.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/hdri.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/HDRP.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/HDRP/HDRP.unitypackage.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module1.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module1.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module10.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module10.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module11.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module11.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module12.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module12.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module13.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module13.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module14.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module14.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module15.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module15.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module3.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module3.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module4.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module4.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module5.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module5.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module6.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module6.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module7.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module7.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module8.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module8.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/MOdule8MetallicSmoothness.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/MOdule8MetallicSmoothness.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module9.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module9.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Meshes.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Meshes/Spaceship.fbx
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Meshes/Spaceship.fbx.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Prefabs.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Prefabs/Space Station.prefab
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Prefabs/Space Station.prefab.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module10_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module10_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module10_Emission.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module10_Emission.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module10_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module10_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module10_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module10_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module11_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module11_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module11_Emission.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module11_Emission.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module11_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module11_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module11_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module11_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module12_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module12_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module12_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module12_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module12_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module12_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module13_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module13_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module13_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module13_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module13_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module13_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module14_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module14_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module14_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module14_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module14_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module14_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module1_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module1_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module1_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module1_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module1_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module1_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module3_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module3_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module3_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module3_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module3_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module3_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module4_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module4_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module4_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module4_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module4_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module4_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module5_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module5_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module5_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module5_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module5_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module5_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module6_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module6_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module6_Emission.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module6_Emission.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module6_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module6_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module6_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module6_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module7_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module7_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module7_Emission.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module7_Emission.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module7_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module7_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module7_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module7_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module8_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module8_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module8_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module8_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module8_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module8_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module9_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module9_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module9_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module9_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module9_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module9_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/thruster_Material.006_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/thruster_Material.006_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/thruster_Material.006_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/thruster_Material.006_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/thruster_Material.006_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/thruster_Material.006_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/URP.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/URP/URP.unitypackage.meta
+Spacegame/Assets/Unity assets/F3_Corvette.meta
+Spacegame/Assets/Unity assets/F3_Corvette/F3_Corvette.unity
+Spacegame/Assets/Unity assets/F3_Corvette/F3_Corvette.unity.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/F3_Green.FBX
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/F3_Green.FBX.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/F3_Grey.FBX
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/F3_Grey.FBX.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/F3_Red.FBX
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/F3_Red.FBX.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/F3_Yellow.FBX
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/F3_Yellow.FBX.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/Materials.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/Materials/F3_Green.mat
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/Materials/F3_Green.mat.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/Materials/F3_Grey.mat
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/Materials/F3_Grey.mat.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/Materials/F3_Red.mat
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/Materials/F3_Red.mat.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/Materials/F3_Yellow.mat
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/Materials/F3_Yellow.mat.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Prefabs.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Prefabs/F3_Green Variant.prefab
+Spacegame/Assets/Unity assets/F3_Corvette/Prefabs/F3_Green Variant.prefab.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Prefabs/F3_Grey Variant.prefab
+Spacegame/Assets/Unity assets/F3_Corvette/Prefabs/F3_Grey Variant.prefab.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Prefabs/F3_Red Variant.prefab
+Spacegame/Assets/Unity assets/F3_Corvette/Prefabs/F3_Red Variant.prefab.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Prefabs/F3_Yellow Variant.prefab
+Spacegame/Assets/Unity assets/F3_Corvette/Prefabs/F3_Yellow Variant.prefab.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_AO.tif
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_AO.tif.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_glow.tif
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_glow.tif.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_Green.tif
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_Green.tif.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_Grey.tif
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_Grey.tif.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_metallic.tif
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_metallic.tif.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_normal.tif
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_normal.tif.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_Red.tif
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_Red.tif.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_roughness.tif
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_roughness.tif.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_Yellow.tif
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_Yellow.tif.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/.editorconfig
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/.github/FUNDING.yml
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/.github/ISSUE_TEMPLATE/bug_report.md
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/.github/ISSUE_TEMPLATE/feature_request.md
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/.github/labeler.yml
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/.github/workflows/label.yml
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/.idea/.idea.UniversalInventorySystem/.idea/indexLayout.xml
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/.idea/.idea.UniversalInventorySystem/.idea/misc.xml
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/.idea/.idea.UniversalInventorySystem/.idea/vcs.xml
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Demo.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Demo/Scenes.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Demo/Scenes/DemoScene.unity
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Demo/Scenes/DemoScene.unity.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Demo/Scenes/Resources.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Demo/Scenes/Resources/TestItemRegister.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Demo/Scenes/Resources/TestItemRegister.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Demo/Scenes/Resources/UnnamedItem.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Demo/Scenes/Resources/UnnamedItem.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory/BasicInventory.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory/BasicInventory.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory/BasicSlot.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory/BasicSlot.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory/Interfaces.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory/Interfaces/IInventory.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory/Interfaces/IInventory.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory/Interfaces/ISlot.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory/Interfaces/ISlot.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/InventorySystem.asmdef
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/InventorySystem.asmdef.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/AbstractItemDefinition.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/AbstractItemDefinition.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/BasicItemDefinition.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/BasicItemDefinition.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/Interfaces.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/Interfaces/IItem.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/Interfaces/IItem.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/Interfaces/IItemData.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/Interfaces/IItemData.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/Interfaces/IItemStack.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/Interfaces/IItemStack.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/ItemDatas.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/ItemDatas/BasicItemData.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/ItemDatas/BasicItemData.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/ItemStack.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/ItemStack.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Registries.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Registries/ItemRegister.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Registries/ItemRegister.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/AutoAssignAt.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/AutoAssignAt.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/AutoAssignController.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/AutoAssignController.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/AutoAssignMonoBehaviour.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/AutoAssignMonoBehaviour.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindGameObjectsWithTag.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindGameObjectsWithTag.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindObjectOfTypeAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindObjectOfTypeAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindObjectsOfTypeAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindObjectsOfTypeAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindWithTagAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindWithTagAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentInChildrenAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentInChildrenAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentInParentAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentInParentAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentsAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentsAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentsInChildrenAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentsInChildrenAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentsInParentAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentsInParentAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/LoadResourceAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/LoadResourceAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/UseAutoAssignAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/UseAutoAssignAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/Demo.unity
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/Demo.unity.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/DemoAutoAssign.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/DemoAutoAssign.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/DemoDrawersScript.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/DemoDrawersScript.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/DemoSceneController.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/DemoSceneController.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/InstantiateWithArgsDemoObject.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/InstantiateWithArgsDemoObject.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/Resources.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/Resources/ArgsInstantiated.prefab
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/Resources/ArgsInstantiated.prefab.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/TestVolatileScriptableObject.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/TestVolatileScriptableObject.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/TimersTest.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/TimersTest.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/Volatile SO.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/Volatile SO.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/BaseMolecularInspector.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/BaseMolecularInspector.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/EditorHelper.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/EditorHelper.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/MolecularEditor.Core.asmdef
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/MolecularEditor.Core.asmdef.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/OptionalPropertyDrawer.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/OptionalPropertyDrawer.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/PolymorphicVariableDrawer.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/PolymorphicVariableDrawer.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/RangeEditorDrawer.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/RangeEditorDrawer.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/SerializableDictionaryEditorDrawer.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/SerializableDictionaryEditorDrawer.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/SpriteEditorDrawer.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/SpriteEditorDrawer.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/TagEditorDrawer.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/TagEditorDrawer.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/TypeVariableDrawer.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/TypeVariableDrawer.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/VolatileScriptableObjectInspector.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/VolatileScriptableObjectInspector.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/ColorHelper.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/ColorHelper.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/Maths.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/Maths.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/Optional.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/Optional.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/PlayStatus.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/PlayStatus.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/Range.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/Range.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/StringExtensionMethods.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/StringExtensionMethods.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/Tag.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/Tag.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/TimedScope.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/TimedScope.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/TypeVariable.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/TypeVariable.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/VectorHelpers.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/VectorHelpers.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/InstantiateHelpers.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/InstantiateHelpers/InstantiateWithArgsInterfaces.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/InstantiateHelpers/InstantiateWithArgsInterfaces.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/InstantiateHelpers/InstantiateWithArgsMethods.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/InstantiateHelpers/InstantiateWithArgsMethods.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Molecular.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Molecular.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/MolecularLib Docs.docx
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/MolecularLib Docs.docx.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/MolecularLib Docs.pdf
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/MolecularLib Docs.pdf.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/MolecularLib.asmdef
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/MolecularLib.asmdef.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/PolymorphismSupport.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/PolymorphismSupport/IPolymorphicSerializationOverride.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/PolymorphismSupport/IPolymorphicSerializationOverride.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/PolymorphismSupport/PolymorphicVariable.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/PolymorphismSupport/PolymorphicVariable.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/PolymorphismSupport/SerializedPolymorphicData.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/PolymorphismSupport/SerializedPolymorphicData.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/PolymorphismSupport/SerializedPolymorphicField.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/PolymorphismSupport/SerializedPolymorphicField.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/SerializableDict.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/SerializableDict/SerializableDictionary.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/SerializableDict/SerializableDictionary.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Singletons.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Singletons/AutoSingleton.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Singletons/AutoSingleton.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Timers.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Timers/TimerManager.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Timers/TimerManager.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Timers/Timers.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Timers/Timers.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/TypeLibrary.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/TypeLibrary.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/VolatileScriptableObject.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/VolatileScriptableObject.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/GetStarted.gif
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/GetStarted.gif.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/image.png
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/image.png.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/LICENSE
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/LICENSE.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Packages.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Packages/manifest.json
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Packages/manifest.json.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Packages/packages-lock.json
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Packages/packages-lock.json.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/AudioManager.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/AudioManager.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/ClusterInputManager.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/ClusterInputManager.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/DynamicsManager.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/DynamicsManager.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/EditorBuildSettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/EditorBuildSettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/EditorSettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/EditorSettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/GraphicsSettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/GraphicsSettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/InputManager.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/InputManager.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/NavMeshAreas.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/NavMeshAreas.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/NetworkManager.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/NetworkManager.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/PackageManagerSettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/PackageManagerSettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/Physics2DSettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/Physics2DSettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/PresetManager.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/PresetManager.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/ProjectSettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/ProjectSettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/ProjectVersion.txt
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/ProjectVersion.txt.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/QualitySettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/QualitySettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/TagManager.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/TagManager.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/TimeManager.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/TimeManager.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/UnityConnectSettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/UnityConnectSettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/VersionControlSettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/VersionControlSettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/VFXManager.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/VFXManager.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/XRSettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/XRSettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/README.md
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/README.md.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/UserSettings.meta
+Spacegame/Assets/Unity assets/Asteroids Pack.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Materials.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Materials/large_asteroid.mat
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Materials/large_asteroid.mat.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Materials/skybox.mat
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Materials/skybox.mat.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Materials/small_asteroid.mat
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Materials/small_asteroid.mat.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid1_LOD0.fbx
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid1_LOD0.fbx.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid1_LOD1.fbx
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid1_LOD1.fbx.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid1_LOD2.fbx
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid1_LOD2.fbx.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid2_LOD0.fbx
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid2_LOD0.fbx.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid2_LOD1.fbx
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid2_LOD1.fbx.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid2_LOD2.fbx
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid2_LOD2.fbx.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid3_LOD0.fbx
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid3_LOD0.fbx.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid3_LOD1.fbx
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid3_LOD1.fbx.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid3_LOD2.fbx
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Meshes/asteroid3_LOD2.fbx.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Prefabs.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Prefabs/Asteroid 1.prefab
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Prefabs/Asteroid 1.prefab.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Prefabs/Asteroid 2.prefab
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Prefabs/Asteroid 2.prefab.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Prefabs/Asteroid 3.prefab
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Prefabs/Asteroid 3.prefab.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Scripts.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Scripts/RandomRotator.cs
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Scripts/RandomRotator.cs.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/seamless_rock_texture.jpg
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/seamless_rock_texture.jpg.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/seamless_rock_texture_detail.jpg
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/seamless_rock_texture_detail.jpg.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/back.png
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/back.png.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/bottom.png
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/bottom.png.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/front.png
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/front.png.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/left.png
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/left.png.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/right.png
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/right.png.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/up.png
+Spacegame/Assets/Unity assets/Asteroids Pack/Assets/Textures/Skybox/up.png.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Demo.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Demo/Demo.unity
+Spacegame/Assets/Unity assets/Asteroids Pack/Demo/Demo.unity.meta
+Spacegame/Assets/Unity assets/Asteroids Pack/Demo/DemoSettings.lighting
+Spacegame/Assets/Unity assets/Asteroids Pack/Demo/DemoSettings.lighting.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock1.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock1.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock10.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock10.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock11.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock11.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock12.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock12.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock13.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock13.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock14.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock14.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock15.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock15.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock2.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock2.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock3.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock3.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock4.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock4.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock5.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock5.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock6.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock6.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock7.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock7.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock8.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock8.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock9.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/Rock9.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture1.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture1.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture10.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture10.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture11.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture11.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture12.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture12.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture13.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture13.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture14.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture14.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture15.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture15.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture2.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture2.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture3.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture3.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture4.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture4.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture5.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture5.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture6.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture6.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture7.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture7.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture8.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture8.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture9.prefab
+Spacegame/Assets/Unity assets/BreakableAsteroids/Asteroids/RockFracture9.prefab.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Readme.txt
+Spacegame/Assets/Unity assets/BreakableAsteroids/Readme.txt.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Scenes.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Scenes/AsteroidScene.unity
+Spacegame/Assets/Unity assets/BreakableAsteroids/Scenes/AsteroidScene.unity.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Scripts.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Scripts/ExampleFracture.cs
+Spacegame/Assets/Unity assets/BreakableAsteroids/Scripts/ExampleFracture.cs.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Scripts/Fracture.cs
+Spacegame/Assets/Unity assets/BreakableAsteroids/Scripts/Fracture.cs.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Ground.mat
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Ground.mat.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012.mat
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012.mat.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_AmbientOcclusion.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_AmbientOcclusion.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_Color.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_Color.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_Displacement.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_Displacement.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_Normal.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_Normal.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_Roughness.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock012_2K_Roughness.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_AmbientOcclusion.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_AmbientOcclusion.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_Color.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_Color.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_Displacement.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_Displacement.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_Normal.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_Normal.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_Roughness.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock014_2K_Roughness.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_AmbientOcclusion.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_AmbientOcclusion.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_Color.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_Color.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_Displacement.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_Displacement.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_Normal.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_Normal.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_Roughness.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock016_2K_Roughness.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_AmbientOcclusion.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_AmbientOcclusion.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_Color.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_Color.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_Displacement.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_Displacement.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_Normal.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_Normal.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_Roughness.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock031_2K_Roughness.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_AmbientOcclusion.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_AmbientOcclusion.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_Color.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_Color.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_Displacement.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_Displacement.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_Normal.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_Normal.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_Roughness.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock033_2K_Roughness.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_AmbientOcclusion.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_AmbientOcclusion.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_Color.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_Color.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_Displacement.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_Displacement.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_Normal.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_Normal.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_Roughness.png
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock035_2K_Roughness.png.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock14.mat
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock14.mat.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock16.mat
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock16.mat.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock31.mat
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock31.mat.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock33.mat
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock33.mat.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock35.mat
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/Rock35.mat.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/The Void 8k.hdr
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/The Void 8k.hdr.meta
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/VoidSkybox.mat
+Spacegame/Assets/Unity assets/BreakableAsteroids/Textures/VoidSkybox.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/hdr.png
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/hdr.png.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/hdri.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/hdri.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/HDRP.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/HDRP/HDRP.unitypackage.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module1.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module1.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module10.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module10.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module11.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module11.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module12.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module12.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module13.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module13.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module14.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module14.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module15.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module15.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module3.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module3.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module4.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module4.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module5.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module5.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module6.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module6.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module7.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module7.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module8.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module8.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/MOdule8MetallicSmoothness.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/MOdule8MetallicSmoothness.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module9.mat
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Materials/module9.mat.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Meshes.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Meshes/Spaceship.fbx
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Meshes/Spaceship.fbx.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Prefabs.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Prefabs/Space Station.prefab
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Prefabs/Space Station.prefab.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module10_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module10_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module10_Emission.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module10_Emission.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module10_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module10_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module10_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module10_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module11_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module11_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module11_Emission.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module11_Emission.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module11_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module11_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module11_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module11_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module12_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module12_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module12_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module12_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module12_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module12_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module13_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module13_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module13_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module13_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module13_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module13_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module14_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module14_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module14_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module14_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module14_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module14_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module1_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module1_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module1_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module1_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module1_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module1_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module3_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module3_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module3_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module3_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module3_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module3_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module4_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module4_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module4_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module4_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module4_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module4_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module5_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module5_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module5_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module5_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module5_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module5_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module6_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module6_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module6_Emission.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module6_Emission.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module6_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module6_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module6_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module6_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module7_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module7_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module7_Emission.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module7_Emission.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module7_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module7_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module7_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module7_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module8_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module8_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module8_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module8_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module8_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module8_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module9_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module9_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module9_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module9_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module9_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/module9_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/thruster_Material.006_AlbedoTransparency.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/thruster_Material.006_AlbedoTransparency.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/thruster_Material.006_MetallicSmoothness.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/thruster_Material.006_MetallicSmoothness.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/thruster_Material.006_Normal.tga
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/Textures/thruster_Material.006_Normal.tga.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/URP.meta
+Spacegame/Assets/Unity assets/Cobble Games/Spaceship/URP/URP.unitypackage.meta
+Spacegame/Assets/Unity assets/F3_Corvette.meta
+Spacegame/Assets/Unity assets/F3_Corvette/F3_Corvette.unity
+Spacegame/Assets/Unity assets/F3_Corvette/F3_Corvette.unity.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/F3_Green.FBX
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/F3_Green.FBX.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/F3_Grey.FBX
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/F3_Grey.FBX.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/F3_Red.FBX
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/F3_Red.FBX.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/F3_Yellow.FBX
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/F3_Yellow.FBX.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/Materials.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/Materials/F3_Green.mat
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/Materials/F3_Green.mat.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/Materials/F3_Grey.mat
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/Materials/F3_Grey.mat.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/Materials/F3_Red.mat
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/Materials/F3_Red.mat.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/Materials/F3_Yellow.mat
+Spacegame/Assets/Unity assets/F3_Corvette/Meshes/Materials/F3_Yellow.mat.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Prefabs.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Prefabs/F3_Green Variant.prefab
+Spacegame/Assets/Unity assets/F3_Corvette/Prefabs/F3_Green Variant.prefab.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Prefabs/F3_Grey Variant.prefab
+Spacegame/Assets/Unity assets/F3_Corvette/Prefabs/F3_Grey Variant.prefab.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Prefabs/F3_Red Variant.prefab
+Spacegame/Assets/Unity assets/F3_Corvette/Prefabs/F3_Red Variant.prefab.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Prefabs/F3_Yellow Variant.prefab
+Spacegame/Assets/Unity assets/F3_Corvette/Prefabs/F3_Yellow Variant.prefab.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_AO.tif
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_AO.tif.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_glow.tif
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_glow.tif.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_Green.tif
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_Green.tif.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_Grey.tif
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_Grey.tif.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_metallic.tif
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_metallic.tif.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_normal.tif
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_normal.tif.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_Red.tif
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_Red.tif.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_roughness.tif
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_roughness.tif.meta
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_Yellow.tif
+Spacegame/Assets/Unity assets/F3_Corvette/Textures/F3_Yellow.tif.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/.editorconfig
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/.github/FUNDING.yml
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/.github/ISSUE_TEMPLATE/bug_report.md
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/.github/ISSUE_TEMPLATE/feature_request.md
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/.github/labeler.yml
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/.github/workflows/label.yml
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/.idea/.idea.UniversalInventorySystem/.idea/indexLayout.xml
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/.idea/.idea.UniversalInventorySystem/.idea/misc.xml
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/.idea/.idea.UniversalInventorySystem/.idea/vcs.xml
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Demo.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Demo/Scenes.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Demo/Scenes/DemoScene.unity
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Demo/Scenes/DemoScene.unity.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Demo/Scenes/Resources.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Demo/Scenes/Resources/TestItemRegister.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Demo/Scenes/Resources/TestItemRegister.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Demo/Scenes/Resources/UnnamedItem.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Demo/Scenes/Resources/UnnamedItem.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory/BasicInventory.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory/BasicInventory.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory/BasicSlot.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory/BasicSlot.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory/Interfaces.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory/Interfaces/IInventory.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory/Interfaces/IInventory.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory/Interfaces/ISlot.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Inventory/Interfaces/ISlot.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/InventorySystem.asmdef
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/InventorySystem.asmdef.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/AbstractItemDefinition.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/AbstractItemDefinition.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/BasicItemDefinition.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/BasicItemDefinition.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/Interfaces.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/Interfaces/IItem.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/Interfaces/IItem.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/Interfaces/IItemData.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/Interfaces/IItemData.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/Interfaces/IItemStack.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/Interfaces/IItemStack.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/ItemDatas.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/ItemDatas/BasicItemData.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/ItemDatas/BasicItemData.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/ItemStack.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Items/ItemStack.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Registries.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Registries/ItemRegister.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/InventorySystem/Scripts/Registries/ItemRegister.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/AutoAssignAt.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/AutoAssignAt.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/AutoAssignController.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/AutoAssignController.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/AutoAssignMonoBehaviour.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/AutoAssignMonoBehaviour.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindGameObjectsWithTag.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindGameObjectsWithTag.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindObjectOfTypeAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindObjectOfTypeAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindObjectsOfTypeAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindObjectsOfTypeAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindWithTagAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/FindWithTagAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentInChildrenAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentInChildrenAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentInParentAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentInParentAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentsAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentsAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentsInChildrenAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentsInChildrenAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentsInParentAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/GetComponentsInParentAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/LoadResourceAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/LoadResourceAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/UseAutoAssignAttribute.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/AutoAssign/UseAutoAssignAttribute.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/Demo.unity
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/Demo.unity.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/DemoAutoAssign.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/DemoAutoAssign.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/DemoDrawersScript.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/DemoDrawersScript.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/DemoSceneController.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/DemoSceneController.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/InstantiateWithArgsDemoObject.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/InstantiateWithArgsDemoObject.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/Resources.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/Resources/ArgsInstantiated.prefab
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/Resources/ArgsInstantiated.prefab.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/TestVolatileScriptableObject.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/TestVolatileScriptableObject.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/TimersTest.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/TimersTest.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/Volatile SO.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Demo/Volatile SO.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/BaseMolecularInspector.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/BaseMolecularInspector.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/EditorHelper.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/EditorHelper.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/MolecularEditor.Core.asmdef
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/MolecularEditor.Core.asmdef.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/OptionalPropertyDrawer.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/OptionalPropertyDrawer.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/PolymorphicVariableDrawer.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/PolymorphicVariableDrawer.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/RangeEditorDrawer.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/RangeEditorDrawer.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/SerializableDictionaryEditorDrawer.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/SerializableDictionaryEditorDrawer.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/SpriteEditorDrawer.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/SpriteEditorDrawer.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/TagEditorDrawer.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/TagEditorDrawer.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/TypeVariableDrawer.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/TypeVariableDrawer.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/VolatileScriptableObjectInspector.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Editor/VolatileScriptableObjectInspector.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/ColorHelper.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/ColorHelper.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/Maths.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/Maths.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/Optional.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/Optional.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/PlayStatus.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/PlayStatus.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/Range.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/Range.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/StringExtensionMethods.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/StringExtensionMethods.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/Tag.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/Tag.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/TimedScope.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/TimedScope.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/TypeVariable.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/TypeVariable.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/VectorHelpers.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Helpers/VectorHelpers.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/InstantiateHelpers.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/InstantiateHelpers/InstantiateWithArgsInterfaces.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/InstantiateHelpers/InstantiateWithArgsInterfaces.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/InstantiateHelpers/InstantiateWithArgsMethods.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/InstantiateHelpers/InstantiateWithArgsMethods.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Molecular.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Molecular.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/MolecularLib Docs.docx
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/MolecularLib Docs.docx.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/MolecularLib Docs.pdf
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/MolecularLib Docs.pdf.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/MolecularLib.asmdef
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/MolecularLib.asmdef.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/PolymorphismSupport.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/PolymorphismSupport/IPolymorphicSerializationOverride.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/PolymorphismSupport/IPolymorphicSerializationOverride.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/PolymorphismSupport/PolymorphicVariable.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/PolymorphismSupport/PolymorphicVariable.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/PolymorphismSupport/SerializedPolymorphicData.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/PolymorphismSupport/SerializedPolymorphicData.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/PolymorphismSupport/SerializedPolymorphicField.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/PolymorphismSupport/SerializedPolymorphicField.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/SerializableDict.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/SerializableDict/SerializableDictionary.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/SerializableDict/SerializableDictionary.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Singletons.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Singletons/AutoSingleton.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Singletons/AutoSingleton.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Timers.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Timers/TimerManager.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Timers/TimerManager.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Timers/Timers.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/Timers/Timers.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/TypeLibrary.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/TypeLibrary.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/VolatileScriptableObject.cs
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Assets/HandsomeDinosaur/MolecularLib/Core/VolatileScriptableObject.cs.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/GetStarted.gif
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/GetStarted.gif.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/image.png
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/image.png.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/LICENSE
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/LICENSE.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Packages.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Packages/manifest.json
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Packages/manifest.json.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Packages/packages-lock.json
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/Packages/packages-lock.json.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/AudioManager.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/AudioManager.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/ClusterInputManager.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/ClusterInputManager.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/DynamicsManager.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/DynamicsManager.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/EditorBuildSettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/EditorBuildSettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/EditorSettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/EditorSettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/GraphicsSettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/GraphicsSettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/InputManager.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/InputManager.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/NavMeshAreas.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/NavMeshAreas.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/NetworkManager.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/NetworkManager.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/PackageManagerSettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/PackageManagerSettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/Physics2DSettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/Physics2DSettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/PresetManager.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/PresetManager.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/ProjectSettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/ProjectSettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/ProjectVersion.txt
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/ProjectVersion.txt.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/QualitySettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/QualitySettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/TagManager.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/TagManager.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/TimeManager.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/TimeManager.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/UnityConnectSettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/UnityConnectSettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/VersionControlSettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/VersionControlSettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/VFXManager.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/VFXManager.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/XRSettings.asset
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/ProjectSettings/XRSettings.asset.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/README.md
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/README.md.meta
+Spacegame/Assets/Unity assets/UniversalInventorySystem-main/UserSettings.meta

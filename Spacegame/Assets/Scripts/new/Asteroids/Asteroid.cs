@@ -5,6 +5,7 @@ using UnityEngine;
 public class Asteroid : MonoBehaviour, IDamageable
 {
     [SerializeField] private FracturedAsteroid fracturedAsteroidPrefab;
+    [SerializeField] private Detonator explosionPrefab;
 
     private Transform transForm;
 
@@ -23,6 +24,13 @@ public class Asteroid : MonoBehaviour, IDamageable
         {
             Instantiate(fracturedAsteroidPrefab, transForm.position, transForm.rotation);
         }
+
+        if (explosionPrefab != null) 
+        {
+            Instantiate(explosionPrefab, hitPosition, Quaternion.identity);       
+        }
+
+        Destroy(gameObject);
     }
 }
 
