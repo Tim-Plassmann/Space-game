@@ -162,4 +162,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fracturedAsteroidPrefab: {fileID: 7048379675211632986, guid: 6a6e0332563819e4b8af0e80d8485952, type: 3}
-  explosionPrefab: {fileID: 11400000, guid: 2a6951ec14b27ed4da27d13818dbebd2, type: 3}
+  explosionPrefab: {fileID: 4596511938081280079, guid: 29fa34143714bc748bb375df8d38a277, type: 3}
