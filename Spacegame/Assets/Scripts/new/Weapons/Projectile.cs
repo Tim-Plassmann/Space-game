@@ -45,5 +45,6 @@ public class Projectile : MonoBehaviour
             damageable.TakeDamage(_damage, hitPosition);
             Debug.Log("du har ramt en object");
         }
+        Destroy(gameObject);
     }
 }
