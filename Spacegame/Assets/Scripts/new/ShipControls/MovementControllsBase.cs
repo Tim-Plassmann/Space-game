@@ -11,3 +11,9 @@ public abstract class MovementControllsBase : IMovementControls
     public abstract float ThrustAmount { get; }
 
 }
+
+public abstract class WeaponControlsBase : IWeaponControls
+{
+    public abstract bool PrimaryFired { get; }
+    public abstract bool SecondaryFired { get; }
+}

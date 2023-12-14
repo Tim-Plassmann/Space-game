@@ -14,6 +14,8 @@ public class Blaster : MonoBehaviour
     [Range(0f, 5f)]
     float coolDownTime = 0.25f;
 
+    private IWeaponControls WeaponInput;
+
     bool cantFire
     {
         get 
@@ -26,10 +28,15 @@ public class Blaster : MonoBehaviour
 
     void Update()
     {
-        if (cantFire && Input.GetMouseButton(0)) 
+        if (WeaponInput == null) return;
+        if (cantFire && WeaponInput.PrimaryFired) 
         {
             FireProjectile();
         }
+    }
+    public void Init(IWeaponControls weaponInput)
+    {
+        WeaponInput = weaponInput;
     }
 
     void FireProjectile()
@@ -37,4 +44,6 @@ public class Blaster : MonoBehaviour
         coolDown = coolDownTime;
         Instantiate(projectilePrefab, muzzle.position, transform.rotation);
     }
+
+    
 }

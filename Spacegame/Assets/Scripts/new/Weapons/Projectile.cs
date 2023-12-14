@@ -44,7 +44,6 @@ public class Projectile : MonoBehaviour
         {
             Vector3 hitPosition = collision.GetContact(0).point;
             damageable.TakeDamage(_damage, hitPosition);
-            Debug.Log("du har ramt en object");
         }
 
         if(hitEffect != null)

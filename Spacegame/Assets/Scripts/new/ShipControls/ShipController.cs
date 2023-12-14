@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ShipController : MonoBehaviour
 {
-    [SerializeField] ShipMovementInput movementInput;
+    [SerializeField] ShipInputControls inputControls;
 
     [SerializeField]
     [Range(1000f, 10000f)]
@@ -15,14 +15,18 @@ public class ShipController : MonoBehaviour
 
     Rigidbody rigidBody;
     [SerializeField] List<ShipEngine> engines;
+    [SerializeField] List<Blaster> blasters;
 
-    [SerializeField] AnimateCockpitControls cockpitControls;
+
+
+    [SerializeField] AnimateCockpitControls cockpitAnimationControls;
     
     float pitchAmount = 0f,
           rollAmount = 0f,
           yawAmount = 0f;
 
-    IMovementControls controlInput => movementInput.MovementControls;
+    IMovementControls MovementInput => inputControls.MovementControls;
+    IWeaponControls WeaponInput => inputControls.WeaponControls;
 
     void Awake()
     {
@@ -33,16 +37,25 @@ public class ShipController : MonoBehaviour
     {
         foreach(ShipEngine engine in engines)
         {
-            engine.Init(controlInput,rigidBody, thrustForce / engines.Count);
+            engine.Init(MovementInput, rigidBody, thrustForce / engines.Count);
         }  
-        cockpitControls.Init(controlInput);
+        if(cockpitAnimationControls != null)
+        {
+            cockpitAnimationControls.Init(MovementInput);
+        }
+        
+
+        foreach (Blaster blaster in blasters)
+        {
+            blaster.Init(WeaponInput);
+        }
     }
 
     void Update()
     {
-        rollAmount = controlInput.RollAmount;
-        yawAmount = controlInput.YawAmount;
-        pitchAmount = controlInput.PitchAmount;
+        rollAmount = MovementInput.RollAmount;
+        yawAmount = MovementInput.YawAmount;
+        pitchAmount = MovementInput.PitchAmount;
     }
 
     void FixedUpdate()

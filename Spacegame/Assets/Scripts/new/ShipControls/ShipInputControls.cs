@@ -2,15 +2,17 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ShipMovementInput : MonoBehaviour
+public class ShipInputControls : MonoBehaviour
 {
     [SerializeField] ShipInputManager.InputType inputType = ShipInputManager.InputType.HumanDesktop;
 
     public IMovementControls MovementControls { get; private set; }
+    public IWeaponControls WeaponControls { get; private set; }
     
     void Start()
     {
-        MovementControls = ShipInputManager.GetInputcontrols(inputType);
+        MovementControls = ShipInputManager.GetMovementControls(inputType);
+        WeaponControls = ShipInputManager.GetWeaponControls(inputType);
     }
 
    

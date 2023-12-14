@@ -46,7 +46,7 @@ public class CameraManager : MonoBehaviour
             return;
         }
 
-        Debug.Log($"{activeCamera.ToString()}");
+       
         foreach (GameObject cam in virtualCamera) 
         {
             cam.SetActive(cam.tag.Equals(activeCamera.ToString()));

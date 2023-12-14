@@ -119,3 +119,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d676012d068adb944927d1d19eab2a0a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  flashColor: {r: 1, g: 1, b: 1, a: 1}
+  fadeOutTime: 0.5
+  minIntensity: -10
+  maxIntensity: 0
+  maxHealth: 5000
+  explosionPrefab: {fileID: 3683571935791529552, guid: a52c2a194d54a454897abccb207cb67a, type: 3}

@@ -12,19 +12,19 @@ public class AnimateCockpitControls : MonoBehaviour
 
     [SerializeField] float throttleRange = 35;
 
-    IMovementControls movementControls;
+    IMovementControls movementInput;
     void Update()
     {
-        if (movementControls == null) return;
+        if (movementInput == null) return;
 
         joystick.localRotation = Quaternion.Euler(
-            movementControls.PitchAmount * joystickRange.x,
-            movementControls.YawAmount * joystickRange.y,
-            movementControls.RollAmount * joystickRange.z
+            movementInput.PitchAmount * joystickRange.x,
+            movementInput.YawAmount * joystickRange.y,
+            movementInput.RollAmount * joystickRange.z
         );
 
         Vector3 throttleRotation = throttles[0].localRotation.eulerAngles;
-        throttleRotation.x = movementControls.ThrustAmount * throttleRange;
+        throttleRotation.x = movementInput.ThrustAmount * throttleRange;
         foreach(Transform throttle in throttles)
         {
             throttle.localRotation = Quaternion.Euler(throttleRotation);
@@ -33,6 +33,6 @@ public class AnimateCockpitControls : MonoBehaviour
 
     public void Init(IMovementControls MovementControls)
     {
-        movementControls = MovementControls;
+        movementInput = MovementControls;
     }
 }
