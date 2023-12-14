@@ -10,21 +10,20 @@ public class Blaster : MonoBehaviour
     [SerializeField]
     Transform muzzle;
 
-    [SerializeField]
-    [Range(0f, 5f)]
     float coolDownTime = 0.25f;
-
-    private IWeaponControls WeaponInput;
+    private int LaunchForce, Damage;
+    private float Duration;
+    IWeaponControls WeaponInput;
 
     bool cantFire
     {
         get 
         {
-            coolDown -= Time.deltaTime;
-            return coolDown <= 0f;
+            CoolDown -= Time.deltaTime;
+            return CoolDown <= 0f;
         }
     }
-    float coolDown;
+    float CoolDown;
 
     void Update()
     {
@@ -34,15 +33,22 @@ public class Blaster : MonoBehaviour
             FireProjectile();
         }
     }
-    public void Init(IWeaponControls weaponInput)
+    public void Init(IWeaponControls weaponInput, float coolDown, int launchForce, float duration, int damage)
     {
         WeaponInput = weaponInput;
+        coolDownTime = coolDown;
+        LaunchForce = launchForce;
+        Duration = duration;
+        Damage = damage;
     }
 
     void FireProjectile()
     {
-        coolDown = coolDownTime;
-        Instantiate(projectilePrefab, muzzle.position, transform.rotation);
+        CoolDown = coolDownTime;
+        Projectile projectile = Instantiate(projectilePrefab, muzzle.position, transform.rotation);
+        projectile.gameObject.SetActive(false);
+        projectile.Init(LaunchForce, Damage, Duration);
+        projectile.gameObject.SetActive(true);
     }
 
     
