@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4704883709172606015}
-  - component: {fileID: 5175247022577752260}
+  - component: {fileID: 517706814929123377}
   m_Layer: 0
   m_Name: AsteroidField
   m_TagString: Untagged
@@ -32,7 +32,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5175247022577752260
+--- !u!114 &517706814929123377
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -41,8 +41,25 @@ MonoBehaviour:
   m_GameObject: {fileID: 4745276249815099103}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9c3df5072ccaeb4488d896bb3d16ab9c, type: 3}
+  m_Script: {fileID: 11500000, guid: af17240e54688674bbb00e1fbbdbd89d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fracturedAsteroidPrefab: {fileID: 0}
-  explosionPrefab: {fileID: 0}
+  asteroidCount: 1000
+  radius: 100
+  maxScale: 3.95
+  asteroidPrefabs:
+  - {fileID: 2995780777197025099, guid: 2293e64f7fe3e1447b5be8ff931fbdc7, type: 3}
+  - {fileID: 4268339114108716036, guid: 2faec3f6f7a5e3c4082b244406398755, type: 3}
+  - {fileID: 5532454382084303082, guid: 75ed3036e71a3204381f7a85e927c88f, type: 3}
+  - {fileID: 8968894692956636083, guid: 9729643037829cc4984dc0821ad4a384, type: 3}
+  - {fileID: 5035209768660089926, guid: 28df8f122ae9ecb4cb1f703b21b910b7, type: 3}
+  - {fileID: 9157400406031657199, guid: a0b5c9859043c3a48838e20694ee928f, type: 3}
+  - {fileID: 5875919364498022301, guid: 79ee0254cac1bc846a7c01646877545b, type: 3}
+  - {fileID: 4072019087477637893, guid: 3f1e7970dab350843bf7cfb4567ca2d8, type: 3}
+  - {fileID: 7544876800071945807, guid: d0db0231e9b576c48966448a2fbd2b57, type: 3}
+  - {fileID: 2084501432288675013, guid: 51ea356061681aa4c848c297a4a0f9ee, type: 3}
+  - {fileID: 1952657646078562707, guid: f044c7e6215a6d943a530a336916048a, type: 3}
+  - {fileID: 224330552219030999, guid: 83af04623dc53684f823a8e0ce5ac738, type: 3}
+  - {fileID: 1997352812181683460, guid: 44146b2f7606d974c94ad00402fb386d, type: 3}
+  - {fileID: 4772610093240125981, guid: a78b16d5b54123c438330c9b38aaf4fb, type: 3}
+  - {fileID: 713162733203637088, guid: e7956500ddbc4df418dfa6273fdb9be7, type: 3}
