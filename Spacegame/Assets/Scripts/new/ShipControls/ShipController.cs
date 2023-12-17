@@ -5,11 +5,17 @@ using UnityEngine;
 
 public class ShipController : MonoBehaviour
 {
-    
-    [InlineEditor(InlineEditorObjectFieldModes.Boxed)]
+    [BoxGroup("Ship input controls")]
+    [InlineEditor(InlineEditorObjectFieldModes.Foldout)]
     [SerializeField]
     [Required]
-    ShipInputControls inputControls;
+    MovementControlsBase movementControls;
+
+    [BoxGroup("Ship input controls")]
+    [InlineEditor(InlineEditorObjectFieldModes.Foldout)]
+    [SerializeField]
+    [Required]
+    WeaponControllsBase weaponControls;
 
     [InlineEditor(InlineEditorObjectFieldModes.Foldout)]
     [SerializeField]
@@ -29,8 +35,8 @@ public class ShipController : MonoBehaviour
           rollAmount = 0f,
           yawAmount = 0f;
 
-    IMovementControls MovementInput => inputControls.MovementControls;
-    IWeaponControls WeaponInput => inputControls.WeaponControls;
+    IMovementControls MovementInput => movementControls;
+    IWeaponControls WeaponInput => weaponControls;
 
     void Awake()
     {

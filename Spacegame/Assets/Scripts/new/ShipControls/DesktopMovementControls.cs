@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public class DesktopMovementControls : MovementControllsBase
+public class DesktopMovementControls : MovementControlsBase
 {
-    float deadZoneRadius = 0.1f;
-    float rollAmount = 0;
+    public float deadZoneRadius = 0.1f;
+    public float rollAmount = 0;
 
     Vector2 ScreenCenter => new Vector2(Screen.width * 0.5f, Screen.height * 0.5f);
 

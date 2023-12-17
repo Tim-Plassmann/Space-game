@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class MovementControllsBase : IMovementControls
+public abstract class MovementControlsBase : MonoBehaviour, IMovementControls
 {
     
     public abstract float YawAmount { get; }

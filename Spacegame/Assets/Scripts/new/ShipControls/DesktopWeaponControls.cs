@@ -1,9 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
+using System;
 using UnityEngine;
 
-
-public class DesktopWeaponControls : WeaponControlsBase
+[Serializable]
+public class DesktopWeaponControls : WeaponControllsBase
 {
     public override bool PrimaryFired => Input.GetMouseButton(0);
     public override bool SecondaryFired => Input.GetMouseButton(1);
