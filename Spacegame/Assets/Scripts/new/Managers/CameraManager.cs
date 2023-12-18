@@ -9,8 +9,7 @@ public class CameraManager : MonoBehaviour
         NoCamera = -1,
         CockpitCamera = 0,
         FollowCamera = 1,
-        enemyFollowCamera = 2;
-        
+        enemyFollowCamera = 2        
     }
     [SerializeField]
     List<GameObject> virtualCamera;
