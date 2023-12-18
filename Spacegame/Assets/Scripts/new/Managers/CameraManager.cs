@@ -8,7 +8,8 @@ public class CameraManager : MonoBehaviour
     {
         NoCamera = -1,
         CockpitCamera = 0,
-        FollowCamera
+        FollowCamera = 1,
+        enemyFollowCamera = 2;
         
     }
     [SerializeField]
