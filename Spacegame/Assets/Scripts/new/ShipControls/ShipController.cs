@@ -22,18 +22,19 @@ public class ShipController : MonoBehaviour
     [Required]
     ShipDataSo shipData;
 
+    [SerializeField] List<Blaster> blasters;
+
+    [SerializeField] AnimateCockpitControls cockpitAnimationControls;
+
     Rigidbody rigidBody;
 
     [SerializeField] [Required] 
     List<ShipEngine> engines;
-
-    [SerializeField] List<Blaster> blasters;
-
-    [SerializeField] AnimateCockpitControls cockpitAnimationControls;
     
     float pitchAmount = 0f,
           rollAmount = 0f,
           yawAmount = 0f;
+    DamageHandler damageHandler;
 
     IMovementControls MovementInput => movementControls;
     IWeaponControls WeaponInput => weaponControls;
@@ -41,6 +42,7 @@ public class ShipController : MonoBehaviour
     void Awake()
     {
         rigidBody = GetComponent<Rigidbody>();
+        damageHandler = GetComponent<DamageHandler>();
     }
 
     void Start()
@@ -60,7 +62,14 @@ public class ShipController : MonoBehaviour
             blaster.Init(WeaponInput, shipData.BlasterCoolDown, shipData.BlasterLaunchForce, shipData.BlasterProjectileDuration, shipData.BlasterDamage);
         }
     }
-
+    void OnEnable()
+    {
+        if (damageHandler == null) return;
+        damageHandler.Init(shipData.MaxHealth);
+        damageHandler.HealthChanged.AddListener(OnHealthChanged);
+        damageHandler.ObjectDestroyed.AddListener(DestroyShip);
+    }
+    
     void Update()
     {
         rollAmount = MovementInput.RollAmount;
@@ -82,5 +91,15 @@ public class ShipController : MonoBehaviour
         {
             rigidBody.AddTorque(transform.up * (shipData.YawForce * yawAmount * Time.fixedDeltaTime));
         }        
+    }
+
+    void DestroyShip()
+    {
+        gameObject.SetActive(false);
+    }
+
+    void OnHealthChanged()
+    {
+        Debug.Log($"{gameObject.name} health is {damageHandler.Health}/{damageHandler.MaxHealth}");
     }
 }
