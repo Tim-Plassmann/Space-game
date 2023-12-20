@@ -18,7 +18,8 @@ MonoBehaviour:
   yawForce: 2000
   shieldStrength: 5000
   shieldRegenAmount: 100
-  maxHealth: 5000
+  maxHealth: 1000
   blasterDamage: 100
-  blasterProjectileDuration: 2
+  blasterLaunchForce: 10000
   blasterCoolDown: 0.25
+  blasterProjectileDuration: 2
