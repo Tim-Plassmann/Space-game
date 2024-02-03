@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 44d8754f67d6e7a489a26c5b4ff41641, type: 3}
-  m_Name: EscortFighter
+  m_Name: ShipData
   m_EditorClassIdentifier: 
-  thrustForce: 10000
-  pitchForce: 3148
-  rollForce: 3213
-  yawForce: 3361
+  thrustForce: 12246
+  pitchForce: 6000
+  rollForce: 1000
+  yawForce: 2000
   shieldStrength: 5000
   shieldRegenAmount: 100
-  maxHealth: 1000
+  maxHealth: 5000
   blasterDamage: 100
   blasterLaunchForce: 10000
   blasterCoolDown: 0.25

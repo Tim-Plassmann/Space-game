@@ -21,7 +21,7 @@ public class ShipDataSo : ScriptableObject
     public int BlasterLaunchForce => blasterLaunchForce;
 
 
-    [BoxGroup("Ship movement values")][SerializeField][Range(1000f, 10000f)]
+    [BoxGroup("Ship movement values")][SerializeField][Range(1000f, 50000f)]
     float thrustForce = 7500f,
           pitchForce = 6000f,
           rollForce = 1000f,
