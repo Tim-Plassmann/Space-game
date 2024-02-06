@@ -17,24 +17,24 @@ public class Projectile : MonoBehaviour
         }
     }
 
-    Rigidbody RigidBody;
+    Rigidbody _rigidBody;
     float Duration;
 
     void Awake()
     {
-        RigidBody = GetComponent<Rigidbody>();
+        _rigidBody = GetComponent<Rigidbody>();
     }
 
     void OnEnable()
     {
-        RigidBody.AddForce(LaunchForce * transform.forward);
+        _rigidBody.AddForce(LaunchForce * transform.forward);
         Duration = Range;
     }
 
     private void OnDisable()
     {
-        RigidBody.velocity = Vector3.zero;
-        RigidBody.angularVelocity = Vector3.zero;
+        _rigidBody.velocity = Vector3.zero;
+        _rigidBody.angularVelocity = Vector3.zero;
     }
 
     void Update()
@@ -42,11 +42,13 @@ public class Projectile : MonoBehaviour
         if (OutOfFuel) Destroy(gameObject);
     }
 
-    public void Init(int launchForce, int damage, float range)
+    public void Init(int launchForce, int damage, float range, Vector3 velocity, Vector3 angularVelocity)
     {
         LaunchForce = launchForce;
         Damage = damage;
         Range = range;
+        _rigidBody.velocity = velocity;
+        _rigidBody.angularVelocity = angularVelocity;
     }
 
     void OnCollisionEnter(Collision collision)

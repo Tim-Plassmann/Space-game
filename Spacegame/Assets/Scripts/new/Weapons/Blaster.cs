@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Blaster : MonoBehaviour
 {
+    
     [SerializeField]
     Projectile projectilePrefab;
 
@@ -12,8 +13,10 @@ public class Blaster : MonoBehaviour
 
     float coolDownTime = 0.25f;
     private int LaunchForce, Damage;
-    private float Duration;
+    float Duration;
     IWeaponControls WeaponInput;
+    float CoolDown;
+    Rigidbody _rigidbody;
 
     bool cantFire
     {
@@ -23,7 +26,7 @@ public class Blaster : MonoBehaviour
             return CoolDown <= 0f;
         }
     }
-    float CoolDown;
+    
 
     void Update()
     {
@@ -33,13 +36,14 @@ public class Blaster : MonoBehaviour
             FireProjectile();
         }
     }
-    public void Init(IWeaponControls weaponInput, float coolDown, int launchForce, float duration, int damage)
+    public void Init(IWeaponControls weaponInput, float coolDown, int launchForce, float duration, int damage, Rigidbody rigidBody)
     {
         WeaponInput = weaponInput;
         coolDownTime = coolDown;
         LaunchForce = launchForce;
         Duration = duration;
         Damage = damage;
+        _rigidbody = rigidBody;
     }
 
     void FireProjectile()
@@ -47,7 +51,7 @@ public class Blaster : MonoBehaviour
         CoolDown = coolDownTime;
         Projectile projectile = Instantiate(projectilePrefab, muzzle.position, transform.rotation);
         projectile.gameObject.SetActive(false);
-        projectile.Init(LaunchForce, Damage, Duration);
+        projectile.Init(LaunchForce, Damage, Duration, _rigidbody.velocity, _rigidbody.angularVelocity);
         projectile.gameObject.SetActive(true);
     }
 

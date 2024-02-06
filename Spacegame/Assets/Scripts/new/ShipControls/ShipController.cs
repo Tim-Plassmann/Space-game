@@ -1,10 +1,11 @@
-using System.Collections;
 using System.Collections.Generic;
 using Sirenix.OdinInspector;
 using UnityEngine;
 
 public class ShipController : MonoBehaviour
 {
+    [SerializeField] Shield _shield;
+
     [BoxGroup("Ship input controls")]
     [InlineEditor(InlineEditorObjectFieldModes.Foldout)]
     [SerializeField]
@@ -26,7 +27,7 @@ public class ShipController : MonoBehaviour
 
     [SerializeField] AnimateCockpitControls cockpitAnimationControls;
 
-    Rigidbody rigidBody;
+    Rigidbody _rigidBody;
 
     [SerializeField] [Required] 
     List<ShipEngine> engines;
@@ -41,7 +42,7 @@ public class ShipController : MonoBehaviour
 
     void Awake()
     {
-        rigidBody = GetComponent<Rigidbody>();
+        _rigidBody = GetComponent<Rigidbody>();
         damageHandler = GetComponent<DamageHandler>();
     }
 
@@ -49,8 +50,9 @@ public class ShipController : MonoBehaviour
     {
         foreach(ShipEngine engine in engines)
         {
-            engine.Init(MovementInput, rigidBody, shipData.ThrustForce / engines.Count);
-        }  
+            engine.Init(MovementInput, _rigidBody, shipData.ThrustForce / engines.Count);
+        } 
+        
         if(cockpitAnimationControls != null)
         {
             cockpitAnimationControls.Init(MovementInput);
@@ -59,7 +61,12 @@ public class ShipController : MonoBehaviour
 
         foreach (Blaster blaster in blasters)
         {
-            blaster.Init(WeaponInput, shipData.BlasterCoolDown, shipData.BlasterLaunchForce, shipData.BlasterProjectileDuration, shipData.BlasterDamage);
+            blaster.Init(WeaponInput, shipData.BlasterCoolDown, shipData.BlasterLaunchForce, shipData.BlasterProjectileDuration, shipData.BlasterDamage, _rigidBody);
+        }
+
+        if (_shield)
+        {
+            _shield.Init(shipData.ShieldStrength);
         }
     }
     void OnEnable()
@@ -81,15 +88,15 @@ public class ShipController : MonoBehaviour
     {
         if (!Mathf.Approximately(0f, pitchAmount)) 
         {
-            rigidBody.AddTorque(transform.right * (shipData.PitchForce * pitchAmount * Time.fixedDeltaTime));
+            _rigidBody.AddTorque(transform.right * (shipData.PitchForce * pitchAmount * Time.fixedDeltaTime));
         }
         if (!Mathf.Approximately(0f, rollAmount))
         {
-            rigidBody.AddTorque(transform.forward * (shipData.RollForce * rollAmount * Time.fixedDeltaTime));
+            _rigidBody.AddTorque(transform.forward * (shipData.RollForce * rollAmount * Time.fixedDeltaTime));
         }
         if (!Mathf.Approximately(0f, yawAmount))
         {
-            rigidBody.AddTorque(transform.up * (shipData.YawForce * yawAmount * Time.fixedDeltaTime));
+            _rigidBody.AddTorque(transform.up * (shipData.YawForce * yawAmount * Time.fixedDeltaTime));
         }        
     }
 

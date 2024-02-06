@@ -1,46 +1,48 @@
 using System;
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class Shield : MonoBehaviour, IDamageable
+public class Shield : MonoBehaviour
 {
+    [SerializeField] DamageHandler _damagehandler;
     [SerializeField] private Color flashColor = Color.white;
     [SerializeField][Range(0.25f, 1f)] private float fadeOutTime = 0.5f;
     [SerializeField] private float minIntensity = -10f, maxIntensity = 0f;
-    [SerializeField] private int maxHealth = 5000;
-    [SerializeField] private GameObject explosionPrefab;
 
-    private Renderer renderer;
-    private Color baseColor;
-    private static readonly int EmissionColor = Shader.PropertyToID("_EmissionColor");
-    private int health;
+    Renderer renderer;
+    Color baseColor;
+    static readonly int EmissionColor = Shader.PropertyToID("_EmissionColor");
 
     private void Awake()
     {
         renderer = GetComponent<Renderer>();
         baseColor = renderer.material.color;
-        health = maxHealth;
         
     }
 
-    public void TakeDamage(int damage, Vector3 hitPosition)
+    public void Init(int shieldStrength)
     {
-        health -= damage;
-        if (health <= 0)
-        {
-            DestroyShields();
-            return;
-        }
+        _damagehandler.Init(shieldStrength);
+    }
+
+    void OnEnable()
+    {
+        _damagehandler.HealthChanged.AddListener(OnHealthChanged);
+        _damagehandler.ObjectDestroyed.AddListener(DestroyShields);
+    }
+
+    private void OnDisable()
+    {
+        _damagehandler.HealthChanged.RemoveListener(OnHealthChanged);
+        _damagehandler.ObjectDestroyed.RemoveListener(DestroyShields);
+    }
+    void OnHealthChanged()
+    {
         StartCoroutine(FlashAndFadeShields());
     }
 
     private void DestroyShields()
     {
-        if (explosionPrefab != null)
-        {
-            Instantiate(explosionPrefab, transform.position, Quaternion.identity);
-        }
         StopAllCoroutines();
         Destroy(gameObject);
     }
