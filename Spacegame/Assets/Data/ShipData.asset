@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44d8754f67d6e7a489a26c5b4ff41641, type: 3}
   m_Name: ShipData
   m_EditorClassIdentifier: 
-  thrustForce: 12246
+  thrustForce: 21826
   pitchForce: 6000
   rollForce: 1000
   yawForce: 2000
-  shieldStrength: 100
+  shieldStrength: 1000
   shieldRegenAmount: 100
-  maxHealth: 1000
+  maxHealth: 2000
   blasterDamage: 100
   blasterLaunchForce: 10000
   blasterCoolDown: 0.25
